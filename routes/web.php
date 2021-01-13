@@ -26,3 +26,4 @@ Route::group(['middleware' => 'auth'], function () {
 });
 
 Route::get('/user-list', 'MessageController@user_list');
+Route::get('/user-message/{id}', 'MessageController@user_message');

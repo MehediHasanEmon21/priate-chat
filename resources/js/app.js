@@ -10,6 +10,8 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
+import filter from './filter'
+
 const store = new Vuex.Store(storeVuex)
 
 

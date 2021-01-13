@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito);@import url(https://fonts.googleapis.com/css?family=Lato:400,700);@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
 
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
@@ -10939,7 +10939,7 @@ a.text-dark:focus {
   border: none;
   padding: 14px;
   color: white;
-  background: #6A6C75;
+  background: #6a6c75;
   width: 90%;
   font-size: 14px;
 }
@@ -10974,13 +10974,13 @@ a.text-dark:focus {
 }
 
 .people-list .status {
-  color: #92959E;
+  color: #92959e;
 }
 
 .chat {
   width: 490px;
   float: left;
-  background: #F2F5F8;
+  background: #f2f5f8;
   border-top-right-radius: 5px;
   border-bottom-right-radius: 5px;
   color: #434651;
@@ -11007,12 +11007,12 @@ a.text-dark:focus {
 }
 
 .chat .chat-header .chat-num-messages {
-  color: #92959E;
+  color: #92959e;
 }
 
 .chat .chat-header .fa-star {
   float: right;
-  color: #D8DADF;
+  color: #d8dadf;
   font-size: 20px;
   margin-top: 12px;
 }
@@ -11057,21 +11057,21 @@ a.text-dark:focus {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-bottom-color: #86BB71;
+  border-bottom-color: #86bb71;
   border-width: 10px;
   margin-left: -10px;
 }
 
 .chat .chat-history .my-message {
-  background: #86BB71;
+  background: #86bb71;
 }
 
 .chat .chat-history .other-message {
-  background: #94C2ED;
+  background: #94c2ed;
 }
 
 .chat .chat-history .other-message:after {
-  border-bottom-color: #94C2ED;
+  border-bottom-color: #94c2ed;
   left: 93%;
 }
 
@@ -11098,13 +11098,13 @@ a.text-dark:focus {
 
 .chat .chat-message button {
   float: right;
-  color: #94C2ED;
+  color: #94c2ed;
   font-size: 16px;
   text-transform: uppercase;
   border: none;
   cursor: pointer;
   font-weight: bold;
-  background: #F2F5F8;
+  background: #f2f5f8;
 }
 
 .chat .chat-message button:hover {
@@ -11119,15 +11119,15 @@ a.text-dark:focus {
 }
 
 .online {
-  color: #86BB71;
+  color: #86bb71;
 }
 
 .offline {
-  color: #E38968;
+  color: #e38968;
 }
 
 .me {
-  color: #94C2ED;
+  color: #94c2ed;
 }
 
 .align-left {
